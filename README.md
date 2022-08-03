@@ -1,4 +1,6 @@
-• 👋 Hi, I’m @AnuragSChatterjee, NUS Undergraduate pursuing Electrical Engineering with a 2nd Major in Innovation And Design, and specializing in IoT
+• 👋 Hi, I’m @AnuragSChatterjee, NUS Undergraduate pursuing Electrical Engineering with a 2nd Major in Innovation And Design, and specializing in IoT. 
+
+• My main purpose of my GitHub page is to document all the mini-projects that I do during my free time to learn new things, as well as my intenship experiences.
 
 • 👀 I’m interested in Electronics And IoT Engineering, Robotics, Product/Project Management In Tech Startups, Memes Design, Blogging And Entrepreneurship!
 

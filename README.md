@@ -2,7 +2,8 @@
 Internet Of Things (IoT). 
 
 • My main purpose of my GitHub page is to document all the mini-projects that I do during my free time to learn new things, as well as my intenship experiences. 
-I have done a bit of leetcode practice and you can check them out in one of my repositories. 
+
+• I have done a bit of leetcode practice in C and Python for easy questions just to get started, and you can check them out in one of my repositories. 
 
 • 👀 I’m interested in Electronics And IoT Engineering, Robotics, Product/Project Management In Tech Startups, Memes Design, Blogging And Entrepreneurship!
 

@@ -23,7 +23,7 @@ I have done a bit of leetcode practice and you can check them out in one of my r
         □ SQL
         □ C
 
-• 🌱 I’m currently learning Coding through beginner projects from online courses (C, Python, Machine Learning, Swift), Electronics Design Engineering (PCB, EAGLE CAD, Arduino, MATLAB, LT Spice Circuit Simulations)!
+• 🌱 I’m currently learning Coding through beginner projects from online courses (C, Python & Machine Learning), Electronics Design Engineering (PCB, EAGLE CAD, Arduino, MATLAB, LT Spice Circuit Simulations)!
 
 • I have documented all my tech learning journey here, self-taught myself various coding languages (Python,C,SQL) and did up ML & Data Analysis projects. Link here: https://drive.google.com/drive/folders/1zWLbUNbxT9Qml-xY7RNeMWwGoudCwadg
 

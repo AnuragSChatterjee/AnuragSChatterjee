@@ -1,14 +1,16 @@
-• 👋 Hi, I’m @AnuragSChatterjee, NUS Undergraduate pursuing Electrical Engineering with a 2nd Major in Innovation And Design, and specializing in IoT. 
+• 👋 Hi, I’m @AnuragSChatterjee, NUS Undergraduate pursuing Electrical Engineering with a 2nd Major in Innovation And Design, and specializing in the 
+Internet Of Things (IoT). 
 
-• My main purpose of my GitHub page is to document all the mini-projects that I do during my free time to learn new things, as well as my intenship experiences.
+• My main purpose of my GitHub page is to document all the mini-projects that I do during my free time to learn new things, as well as my intenship experiences. 
+I have done a bit of leetcode practice and you can check them out in one of my repositories. 
 
 • 👀 I’m interested in Electronics And IoT Engineering, Robotics, Product/Project Management In Tech Startups, Memes Design, Blogging And Entrepreneurship!
 
 • 💼 I have prior educational and professional work experience in the following areas of expertise from my experience working in tech & engineering startups, university engineering teams and MNCs:
 
-        □ Electronics Design Engineering: Arduino, MATLAB, EAGLE CAD, PCB Design, LTSpice, CircuitLab, Hardware Serial Communication, GUI, Electronics Testing & Manufacture
+        □ Electronics Design Engineering: Arduino, MATLAB, EAGLE-CAD, Autodesk CAD, PCB Design, LTSpice, CircuitLab, Hardware Serial Communication, GUI, Electronics Testing & Manufacturing 
 
-        □ Software Engineering: IoT, Raspberry Pi, TCP/IP Computer Networks, Python Socket Programming, Client-Server Programming
+        □ Software & Hardware Engineering: IoT Programming Languages (C, C++ & Python), Flask, MySQL, SQL, Raspberry Pi, FPGA, EDA Tools, TCP/IP Computer Networks, Python Socket Programming, Client-Server Programming
 
         □ Innovation Design Engineering: Design Thinking Methodologies (Value Proposition Canvas, Feasibility & Dot Matrix, HMW Problem Statements, UX Research, Personas  Mapping, Rapid Prototyping, Conceptualization), Product & Project Management, Adobe Photoshop & Illustrator, Miro Tools
 

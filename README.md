@@ -1,5 +1,4 @@
-• 👋 Hi, I’m @AnuragSChatterjee, NUS Undergraduate pursuing Electrical Engineering with a 2nd Major in Innovation And Design, and specializing in the 
-Internet Of Things (IoT). 
+• 👋 Hi, I’m @AnuragSChatterjee, National University Of Singapore (NUS) Undergraduate pursuing Electrical Engineering with a double major in Innovation And Design, Ridge View Residential College Programme (RVRC) on Interdisplinary Studies involving sustainability studies and leadership, and specializing in the Internet Of Things (IoT). 
 
 • My main purpose of my GitHub page is to document all the mini-projects that I do during my free time to learn new things, as well as my intenship experiences. 
 

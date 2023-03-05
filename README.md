@@ -9,20 +9,21 @@ Internet Of Things (IoT).
 
 • 💼 I have prior educational and professional work experience in the following areas of expertise from my experience working in tech & engineering startups, university engineering teams and MNCs:
 
-        □ Electronics Design Engineering: Arduino, MATLAB, EAGLE-CAD, Autodesk CAD, PCB Design, LTSpice, CircuitLab, Hardware Serial Communication, GUI, Electronics Testing & Manufacturing 
+        □ Electronics Design Engineering: Arduino Programming, MATLAB, EAGLE-CAD, Autodesk CAD, PCB Design, LTSpice Circuit Design and Simulations, CircuitLab For Electronic Component Design, Power Electronics Calculations, Hardware Serial Communication, GUI, Electronics Testing & Manufacturing 
 
-        □ Software & Hardware Engineering: IoT Programming Languages (C, C++ & Python), Flask, MySQL, SQL, Raspberry Pi, FPGA, EDA Tools, TCP/IP Computer Networks, Python Socket Programming, Client-Server Programming
+        □ Software & Hardware Engineering: IoT Programming Languages (C, C++ & Python), Flask, MySQL, SQL, Raspberry Pi Programming, WeMosD1 Microcontrollers Programming, Hardware-Software Interfacing and Integration,  FPGA Programming, EDA Tools, TCP/IP Computer Networks, Python Socket Programming, Client-Server Programming
 
-        □ Innovation Design Engineering: Design Thinking Methodologies (Value Proposition Canvas, Feasibility & Dot Matrix, HMW Problem Statements, UX Research, Personas  Mapping, Rapid Prototyping, Conceptualization), Product & Project Management, Adobe Photoshop & Illustrator, Miro Tools
+        □ Innovation Design Engineering: Figma, Design Thinking Methodologies (Value Proposition Canvas, Feasibility & Dot Matrix, HMW Problem Statements, UX Research, Personas  Mapping, Rapid Prototyping, Conceptualization), Product & Project Management, Adobe Photoshop & Illustrator, Miro Tools
 
 
-• 📖 Self-taught myself the following technical skills in coding/programming through online courses:
+• 📖 Self-taught myself the following technical skills in coding/programming through online courses from Udemy, Coursera, Coursera Project Network and LinkedIn Learning:
 
-        □ Python
+        □ Python 
         □ Machine Learning
         □ Data Science: Numpy, Pandas, Sklearn, Seaborn
         □ SQL
-        □ C
+        □ C (Through Leetcode Practice And Readings There)
+        □ C++ (Through Leetcode Practice And Readings There)
 
 • 🌱 I’m currently learning Coding through beginner projects from online courses (C, Python & Machine Learning), Electronics Design Engineering (PCB, EAGLE CAD, Arduino, MATLAB, LT Spice Circuit Simulations)!
 

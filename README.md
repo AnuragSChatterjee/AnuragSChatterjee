@@ -7,7 +7,7 @@ Internet Of Things (IoT).
 
 • 👀 I’m interested in Electronics And IoT Engineering, Robotics, Product/Project Management In Tech Startups, Memes Design, Blogging And Entrepreneurship!
 
-• 💼 I have prior educational and professional work experience in the following areas of expertise from my experience working in tech & engineering startups, university engineering teams and MNCs:
+• 💼 I have prior educational and professional work experience in the following areas of expertise from my experience working in tchnical and business roles, within tech & engineering startups based out of Singapore, university engineering teams, as well as Global Fortune 500 MNCs based in Europe and USA:
 
         □ Electronics Design Engineering: Arduino Programming, MATLAB, EAGLE-CAD, Autodesk CAD, PCB Design, LTSpice Circuit Design and Simulations, CircuitLab For Electronic Component Design, Power Electronics Calculations, Hardware Serial Communication, GUI, Electronics Testing & Manufacturing 
 

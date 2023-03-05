@@ -8,7 +8,7 @@
 
 • 💼 I have prior educational and professional work experience in the following areas of expertise from my experience working in academia as a Teaching Assistant (TA) for Design Thinking in the National University Of Singapore (NUS), then in technical and business roles within deep tech & engineering startups based out of Singapore, university engineering teams, and lastly, in Global Fortune 500 MNCs based in Europe and USA:
 
-        □ Electronics Design Engineering: Arduino Programming, MATLAB, EAGLE-CAD, Autodesk CAD, PCB Design, LTSpice Circuit Design and Simulations, CircuitLab For Electronic Component Design, Power Electronics Calculations, Hardware Serial Communication, GUI, Electronics Testing & Manufacturing 
+        □ Electronics Design Engineering: Arduino Programming, MATLAB, EAGLE-CAD, Autodesk CAD, PCB Design, LTSpice Circuit Design and Simulations, CircuitLab For Electronic Component Design, Power Electronics Calculations, Hardware Serial Communication, GUI Creation And Interfacing, Electronics And Hardware Testing & Manufacturing 
 
         □ Software & Hardware Engineering: IoT Programming Languages (C, C++ & Python), Flask, MySQL, SQL, Raspberry Pi Programming, WeMosD1 Microcontrollers Programming, Hardware-Software Interfacing and Integration,  FPGA Programming, EDA Tools, TCP/IP Computer Networks, Python Socket Programming, Client-Server Programming
 

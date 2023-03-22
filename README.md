@@ -28,6 +28,8 @@
 
 • I have documented all my tech learning journey here, self-taught myself various coding languages (Python,C,SQL) and did up ML & Data Analysis projects. Link here: https://drive.google.com/drive/folders/1zWLbUNbxT9Qml-xY7RNeMWwGoudCwadg
 
+• Did some coding (Machine learning, Data Visualizations, SQL, Deep Learning & Computer Vision) on Kaggle, and you can check my Kaggle profile at: https://www.kaggle.com/anuragschatterjee1/code
+
 • 💞️ I’m looking to collaborate on various open source tech and engineering projects! Currently documenting my work in basic tech projects here to level up my digital skills
 
 • 📫 Feel free to reach out on LinkedIn at https://www.linkedin.com/in/anurag-s-chatterjee-6765a5171/

@@ -32,7 +32,7 @@
 
 • 💞️ I’m looking to collaborate on various open source tech and engineering projects! Currently documenting my work in basic tech projects here to level up my digital skills
 
-• 📫 Feel free to reach out on LinkedIn at https://www.linkedin.com/in/anurag-s-chatterjee-6765a5171/
+• 📫 Feel free to reach out on LinkedIn at: https://www.linkedin.com/in/anurag-s-chatterjee-ba6858194/
 
 <!---
 AnuragSChatterjee/AnuragSChatterjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

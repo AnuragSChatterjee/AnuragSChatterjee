@@ -9,8 +9,11 @@
 • 💼 I have both extensive Startup & Corporate Work Experience. I have worked in Deep Tech Startups in Block 71 & Block 73 at LeanLaunchPad in Singapore at One-North - which is located right at the heart of Singapore's Startup Ecosystem. Here are some of my Singapore work experience highlights in a gist:
 
         □ Worked in Electronics & Hardware Design for a Mechatronics Engineering startup founded by an ex-A*STAR Director of Research & Engineering
+        
         □ Worked as an IoT Software Engineer role in a newly incubated Electronics Hardware startup based out of the NUS Graduate Research & Innovation Programme
+        
         □ Worked in AI Product/Project Management by ex-GovTech & Cyber Security Agency Of Singapore Directors in an AI & Cyber Security startup
+        
         □ Worked as an AI Research Engineer for Machine Learning & Computer Vision for an AI Startup focused on Construction Safety, under a Forbes 30 Under 30 Entrepreneur
 
 • 💼 I have prior educational and professional work experience in the following areas of expertise from my experience working in academia as a Teaching Assistant (TA) for Design Thinking in the National University Of Singapore (NUS), then in technical and business roles within deep tech & engineering startups based out of Singapore, university engineering teams, and lastly, in Global Fortune 500 MNCs based in Europe and USA:

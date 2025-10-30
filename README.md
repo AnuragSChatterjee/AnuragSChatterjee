@@ -1,4 +1,4 @@
-• 👋 Hi, I’m @AnuragSChatterjee, National University Of Singapore (NUS) Undergraduate pursuing Electrical Engineering with a double major in Innovation And Design, as well as an Interdisplinary Education programme called the Ridge View Residential College Programme (RVRC) in NUS which involves sustainability studies and leadership, and lastly, a specialization in the Internet Of Things (IoT). 
+• 👋 Hi, I’m @AnuragSChatterjee, a proud alumi of the National University Of Singapore (NUS) in Electrical Engineering with a double major in Innovation And Design, as well as an Interdisplinary Education programme called the Ridge View Residential College Programme (RVRC) in NUS which involves sustainability studies and leadership, and lastly, a specialization in the Internet Of Things (IoT). 
 
 • My main purpose of my GitHub page is to document all the mini-projects that I do during my free time to learn new things, as well as my intenship experiences. 
 
@@ -14,7 +14,7 @@
         
         □ Worked in AI Product/Project Management by ex-GovTech & Cyber Security Agency Of Singapore Directors in an AI & Cyber Security startup
         
-        □ Worked as an AI Research Engineer for Machine Learning & Computer Vision for an AI Startup focused on Construction Safety, under a Forbes 30 Under 30 Entrepreneur
+        □ Worked as an AI Research Engineer for Machine Learning & Computer Vision for an AI Startup for construction safety
 
 • 💼 I have prior educational and professional work experience in the following areas of expertise from my experience working in academia as a Teaching Assistant (TA) for Design Thinking in the National University Of Singapore (NUS), then in technical and business roles within deep tech & engineering startups based out of Singapore, university engineering teams, and lastly, in Global Fortune 500 MNCs based in Europe and USA:
 
@@ -40,9 +40,7 @@
 
 • Did some coding (Machine learning, Data Visualizations, SQL, Deep Learning & Computer Vision) on Kaggle, and you can check my Kaggle profile at: https://www.kaggle.com/anuragschatterjee1/code
 
-• 💞️ I’m looking to collaborate on various open source tech and engineering projects! Currently documenting my work in basic tech projects here to level up my digital skills
-
-• 📫 Feel free to reach out on LinkedIn at: https://www.linkedin.com/in/anurag-s-chatterjee-ba6858194/
+• 💞️ I’m looking to collaborate on various open source tech and engineering projects! Currently documenting my work in basic tech projects here to level up my digital skills.
 
 <!---
 AnuragSChatterjee/AnuragSChatterjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

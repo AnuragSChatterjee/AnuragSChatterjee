@@ -30,15 +30,21 @@ I have extensive **startup and corporate work experience**, including a Fortune 
 - 🤖 AI Research Engineer – Machine Learning & Computer Vision for construction safety startup  
 
 ### Corporate Highlights
-- 🏢 Product Engineering (Mechatronics) For Digital Systems – Schlumberger (Oil & Gas, Industrial Solutions)  
+- 🏢 Product Engineering (Mechatronics) For Digital Systems – Schlumberger (Oil & Gas)  
+- 🏢 Design Innovation Engineer For Aviation Experience – Thales (Aerospace)  
 - 🔧 Research & Development – Focused on System Optimization, Automation, and Embedded Solutions  
 
 ---
 
-## 🏛️ Leadership & Technical Teams at Columbia
+## 🏛️ Leadership & Technical Teams
+
+### Columbia University
 - **Columbia Venture Capital & Entrepreneurship (Leadership Team)** – Orchestrating tech startup collaborations, mentoring, and networking opportunities for engineering graduates  
 - **Columbia Autonomous Racing Team (Path & State Planning Team)** – Developing ROS motion algorithms, optimization techniques, and ensuring vehicle drive efficiency on curved tracks  
 - Columbia Student Navigator Team – Supporting >1000 graduates in academic and career guidance  
+
+### National University of Singapore
+- **NUS Mars Rover Team (Electrical Team)** – Designed and implemented power electronics, hardware selection, and electrical subsystems for university rover design challenges; team ranked Top 50 globally  
 
 ---
 

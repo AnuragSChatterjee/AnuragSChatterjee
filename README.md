@@ -1,9 +1,11 @@
 # Hi, I’m Anurag Chatterjee 👋  
 
-🎓 Electrical & Computer Engineering | Systems & IoT | Research-oriented Engineer  
+🎓 Electrical & Computer Engineering | **MS Student at Columbia University (Ivy League)** | Systems & IoT | Research-oriented Engineer  
 📍 MS-level ECE / Systems focus | Industry + R&D background | Startup & Corporate Experience  
+🎓 Alma Mater: **National University of Singapore (B.Eng in Electrical Engineering)** – Top 20 in Asia & globally  
 
-I’m an Electrical & Computer Engineer with expertise in **systems, IoT, AI, and applied engineering**, previously at **Schlumberger** and multiple **deep-tech startups** in Singapore.  
+I’m an Electrical & Computer Engineer with expertise in **systems, IoT, AI, and applied engineering**, currently pursuing my **MS in Electrical & Computer Engineering at Columbia University (Ivy League)**.  
+Previously, I have worked at **Schlumberger** and multiple **deep-tech startups** in Singapore.  
 I enjoy working at the intersection of **hardware, software, and large-scale systems**, with a passion for **energy systems, optimization, and quantitative problem-solving**.
 
 ---

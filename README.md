@@ -30,7 +30,7 @@ I have extensive **startup and corporate work experience**, including a Fortune 
 - 🤖 AI Research Engineer – Machine Learning & Computer Vision for construction safety startup  
 
 ### Corporate Highlights
-- 🏢 Systems & Applied Engineering – Schlumberger (Oil & Gas, Industrial Solutions)  
+- 🏢 Product Engineering (Mechatronics) For Digital Systems – Schlumberger (Oil & Gas, Industrial Solutions)  
 - 🔧 Research & Development – Focused on System Optimization, Automation, and Embedded Solutions  
 
 ---

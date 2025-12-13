@@ -1,50 +1,75 @@
-• 👋 Hi, I’m @AnuragSChatterjee, a proud alumi of the National University Of Singapore (NUS) in Electrical Engineering with a double major in Innovation And Design, as well as an Interdisplinary Education programme called the Ridge View Residential College Programme (RVRC) in NUS which involves sustainability studies and leadership, and lastly, a specialization in the Internet Of Things (IoT). 
+# Hi, I’m Anurag Chatterjee 👋  
 
-• I am extremely grateful to pursue my Masters (MSc) in Computer Engineering from an Ivy League School i.e. Columbia University, at the heart of New York City. I am taking courses in Computer Architecture, Hardware Software Co-Design For Data Centre Processing, Artificial Intelligence Of Things, Modelling And Performance Evaluation, Deep Learning, Statistical Learning For Quantitative Trading And Embedded AI. 
+🎓 Electrical & Computer Engineering | Systems & IoT | Research-oriented Engineer  
+📍 MS-level ECE / Systems focus | Industry + R&D background  
 
-• My main purpose of my GitHub page is to document all the mini-projects that I do during my free time to learn new things, as well as my intenship experiences. 
+I’m an Electrical & Computer Engineer with experience in **systems, IoT, and applied engineering**, previously at **Schlumberger**.  
+I enjoy working at the intersection of **hardware, software, and large-scale systems**, with long-term interests in **energy systems, optimization, and quantitative decision-making**.
 
-• I have done a bit of leetcode practice in 3 different programming languages i.e. Python, C and C++ for easy questions just to get started, and you can check them out in one of my repositories. Check out my Leetcode profile where I practised some coding for learning purposes only: https://leetcode.com/anurag_chatterjee/ 
+---
 
-• 👀 I’m interested in Electronics And IoT Engineering, Robotics, Product/Project Management In Tech Startups, Memes Design, Blogging And Entrepreneurship!
+## 🔭 Current Focus
+- Advanced **Computer Architecture & Systems**
+- Embedded systems & low-level programming
+- Applied research and engineering problem-solving
+- Preparing for research-driven and industry-impactful roles
 
-• 💼 I have both extensive Startup & Corporate Work Experience. I have worked in Deep Tech Startups in Block 71 & Block 73 at LeanLaunchPad in Singapore at One-North - which is located right at the heart of Singapore's Startup Ecosystem. Here are some of my Singapore work experience highlights in a gist:
+---
 
-        □ Worked in Electronics & Hardware Design for a Mechatronics Engineering startup founded by an ex-A*STAR Director of Research & Engineering
-        
-        □ Worked as an IoT Software Engineer role in a newly incubated Electronics Hardware startup based out of the NUS Graduate Research & Innovation Programme
-        
-        □ Worked in AI Product/Project Management by ex-GovTech & Cyber Security Agency Of Singapore Directors in an AI & Cyber Security startup
-        
-        □ Worked as an AI Research Engineer for Machine Learning & Computer Vision for an AI Startup for construction safety
+## 🧰 Technical Skills
 
-• 💼 I have prior educational and professional work experience in the following areas of expertise from my experience working in academia as a Teaching Assistant (TA) for Design Thinking in the National University Of Singapore (NUS), then in technical and business roles within deep tech & engineering startups based out of Singapore, university engineering teams, and lastly, in Global Fortune 500 MNCs based in Europe and USA:
+**Programming & Systems**
+- C / C++ • Python • MATLAB
+- Embedded C • Verilog (basic)
+- Linux • Git • Bash
 
-        □ Electronics Design Engineering: Arduino Programming, MATLAB, EAGLE-CAD, Autodesk CAD, PCB Design, LTSpice Circuit Design and Simulations, CircuitLab For Electronic Component Design, Power Electronics Calculations, Hardware Serial Communication, GUI Creation And Interfacing, Electronics And Hardware Testing & Manufacturing 
+**Hardware & Embedded**
+- Microcontrollers & IoT systems
+- Sensors, actuators & data acquisition
+- System integration & testing
 
-        □ Software & Hardware Engineering: IoT Programming Languages (C, C++ & Python), Flask, MySQL, SQL, Raspberry Pi Programming, WeMosD1 Microcontrollers Programming, Hardware-Software Interfacing and Integration,  FPGA Programming, EDA Tools, TCP/IP Computer Networks, Python Socket Programming, Client-Server Programming
+**Engineering & Tools**
+- Signal processing
+- Control systems
+- System modeling & analysis
+- Debugging & performance optimization
 
-        □ Innovation Design Engineering: Figma, Design Thinking Methodologies (Value Proposition Canvas, Feasibility & Dot Matrix, HMW Problem Statements, UX Research, Personas  Mapping, Rapid Prototyping, Conceptualization), Product & Project Management, Adobe Photoshop & Illustrator, Miro Tools
+---
 
+## 📌 Featured Projects
+*(Pinned repositories highlight full details, setup instructions, and results)*
 
-• 📖 Self-taught myself the following technical skills in coding/programming through online courses from Udemy, Coursera, Coursera Project Network and LinkedIn Learning:
+- **Embedded / IoT Systems** – Sensor-based systems, data pipelines, and control logic  
+- **Systems & Architecture** – Low-level programming, performance analysis, memory behavior  
+- **Applied Engineering Projects** – Industry-style problem solving and prototyping  
 
-        □ Python 
-        □ Machine Learning
-        □ Data Science: Numpy, Pandas, Sklearn, Seaborn
-        □ SQL
-        □ C (Through Leetcode Practice And Readings There)
-        □ C++ (Through Leetcode Practice And Readings There)
+➡️ See pinned repositories below for detailed documentation.
 
-• 🌱 I’m currently learning Coding through beginner projects from online courses (C, Python & Machine Learning), Electronics Design Engineering (PCB, EAGLE CAD, Arduino, MATLAB, LT Spice Circuit Simulations)!
+---
 
-• I have documented all my tech learning journey here, self-taught myself various coding languages (Python,C,SQL) and did up ML & Data Analysis projects. Link here: https://drive.google.com/drive/folders/1zWLbUNbxT9Qml-xY7RNeMWwGoudCwadg
+## 📊 GitHub Activity & Stats
 
-• Did some coding (Machine learning, Data Visualizations, SQL, Deep Learning & Computer Vision) on Kaggle, and you can check my Kaggle profile at: https://www.kaggle.com/anuragschatterjee1/code
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnuragSChatterjee&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragSChatterjee&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
 
-• 💞️ I’m looking to collaborate on various open source tech and engineering projects! Currently documenting my work in basic tech projects here to level up my digital skills.
+---
 
-<!---
-AnuragSChatterjee/AnuragSChatterjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎯 Professional Interests
+- Computer architecture & memory systems
+- Embedded & cyber-physical systems
+- Energy & industrial systems
+- Research-driven engineering roles
+- Long-term: systems optimization & quantitative methods
+
+---
+
+## 📫 Connect With Me
+- 💼 **LinkedIn**: https://www.linkedin.com/in/anurag-chatterjee  
+- 📧 **Email**: (add your preferred email)
+- 🌐 **GitHub**: https://github.com/AnuragSChatterjee
+
+---
+
+⭐ If you find my work useful, feel free to explore or connect.

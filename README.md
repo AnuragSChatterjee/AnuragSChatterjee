@@ -66,7 +66,7 @@ I enjoy working at the intersection of **hardware, software, and large-scale sys
 ---
 
 ## 📫 Connect With Me
-- 💼 **LinkedIn**: https://www.linkedin.com/in/anurag-chatterjee  
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/anurag-chatterjee](https://www.linkedin.com/in/anuragschatterjee/)  
 - 📧 **Email**: (add your preferred email)
 - 🌐 **GitHub**: https://github.com/AnuragSChatterjee
 

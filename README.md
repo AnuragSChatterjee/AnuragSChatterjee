@@ -4,8 +4,10 @@
 📍 MS-level ECE / Systems focus | Industry + R&D background In Hardware And Software | Tech Startup & Fortune 500 Corporate Experience  
 🎓 Alma Mater: **National University of Singapore (B.Eng in Electrical Engineering)** – Ranked Top 20 in Asia & Globally  
 
-I’m an Electrical & Computer Engineer with expertise in **systems, IoT, AI, and applied engineering**, currently pursuing my **MS in Electrical & Computer Engineering at Columbia University** . Really grateful to study in an Ivy League school in the heart of New York City.  
+I’m an Electrical & Computer Engineer with expertise in **systems, IoT, AI, and applied engineering**, currently pursuing my **MS in Electrical & Computer Engineering at Columbia University**. Really grateful to study in an Ivy League school in the heart of New York City.  
+
 Previously, I have worked at **Schlumberger and Thales** and multiple **deep-tech startups** in Singapore.  
+
 I enjoy working at the intersection of **hardware, software, and large-scale systems**, with a passion for **systems engineering, robotics, AI, mathematics, finance and quantitative problem-solving**.
 
 ---

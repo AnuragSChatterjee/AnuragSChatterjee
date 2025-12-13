@@ -1,5 +1,7 @@
 • 👋 Hi, I’m @AnuragSChatterjee, a proud alumi of the National University Of Singapore (NUS) in Electrical Engineering with a double major in Innovation And Design, as well as an Interdisplinary Education programme called the Ridge View Residential College Programme (RVRC) in NUS which involves sustainability studies and leadership, and lastly, a specialization in the Internet Of Things (IoT). 
 
+• I am extremely grateful to pursue my Masters (MSc) in Computer Engineering from an Ivy League School i.e. Columbia University, at the heart of New York city. I am taking courses in Computer Architecture, Hardware Software Co-Design For Data Centre Processing, Artificial Intelligence Of Things, Modelling And Performance Evaluation, Deep Learning, Statistical Learning For Quantitative Trading And Embedded AI. 
+
 • My main purpose of my GitHub page is to document all the mini-projects that I do during my free time to learn new things, as well as my intenship experiences. 
 
 • I have done a bit of leetcode practice in 3 different programming languages i.e. Python, C and C++ for easy questions just to get started, and you can check them out in one of my repositories. Check out my Leetcode profile where I practised some coding for learning purposes only: https://leetcode.com/anurag_chatterjee/ 

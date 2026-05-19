@@ -28,10 +28,10 @@
 
 | | |
 |---|---|
-| 🎓 | **MS Computer Engineering · Columbia University (Ivy League), NYC** · GPA: 3.86/4.00 · Expected Dec 2026 |
+| 🎓 | **MS Computer Engineering · Columbia University (Ivy League), New York City** · GPA: 3.86/4.00 · Expected Dec 2026 |
 | 🎓 | **B.Eng (Hons) Electrical Engineering · National University of Singapore** — Top 20 in Asia & Globally · Graduated with Merit |
 | 📍 | MS-level ECE / Systems focus · Industry + R&D background in Hardware and Software · Tech Startup & Fortune 500 Experience |
-| 🌏 | Singapore Citizen · Based in New York City · Open to relocation |
+| 🌏 | Singapore Citizen · Lived In Egypt · Based in New York City · Open to relocation |
 
 I'm an Electrical & Computer Engineer with expertise in **systems, IoT, AI, and applied engineering**. I enjoy working at the intersection of **hardware, software, and large-scale systems**, with a passion for **systems engineering, robotics, AI, mathematics, finance, and quantitative problem-solving**.
 

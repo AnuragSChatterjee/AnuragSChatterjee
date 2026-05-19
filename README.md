@@ -227,7 +227,7 @@ Multi-agent AI system using Amazon Bedrock (Claude 3.5) for FMCG supply chain op
 
 ---
 
-## 🏛️ Leadership, Competitions & Community
+## 🏛️ Leadership Roles, Mentorship, Competitions & Community Service
 
 ### Columbia University
 

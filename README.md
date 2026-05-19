@@ -1,9 +1,5 @@
 <div align="center">
 
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                     HEADER BANNER                            -->
-<!--  ═══════════════════════════════════════════════════════════  -->
-
 <table>
 <tr>
 <td align="center" width="100%" style="border: 2px solid #555; padding: 16px; background-color: #0d1117;">
@@ -100,33 +96,53 @@ Implemented semidefinite programming and convex optimization in C on Raspberry P
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-> ℹ️ *Stats are rendered via GitHub's API — if images don't load, try refreshing or view on [github.com/AnuragSChatterjee](https://github.com/AnuragSChatterjee)*
+> *All stats below are always visible — no external images or API calls required.*
 
-<div align="center">
+### 🌟 Languages & Tools Used Across Repositories
 
-| GitHub Overview | Top Languages |
-|:-:|:-:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuragSChatterjee&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragSChatterjee&layout=compact&theme=radical&hide_border=true&bg_color=0d1117) |
+| Language / Tool | Used In |
+|----------------|---------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Convex Optimization · Computer Vision · IoT · NLP Benchmarking |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) **C** | SDP Energy Management · Embedded Solvers · CVXPYgen |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) **C++** | GPU DVFS · HPC Sorting · Arduino Signal Visualization |
+| ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) **MATLAB** | Microgrid Optimization · Test Automation · HIL Testing |
+| ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) **CUDA** | GPU Microarchitecture · DVFS Policies · LLM Training |
+| ![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=flat-square&logoColor=white) **Verilog** | FPGA MLP Accelerator · Xilinx Zynq · Hardware Inference |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) **PyTorch / TensorFlow / Keras** | Deep Learning · Cardiac EWI · Computer Vision |
+| ![Embedded](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white) **Embedded C** | Raspberry Pi · ESP32 · ARM · Sensor Systems |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **SQL** | IoT Deception Detection · Data Pipelines |
 
-</div>
+---
 
-<div align="center">
+### 🗂️ Repository Index
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnuragSChatterjee&theme=radical&hide_border=true&background=0d1117)
+| Category | Repository | Key Result |
+|----------|-----------|------------|
+| ⚡ **Optimization** | [SDP Energy Management — Raspberry Pi](https://github.com/AnuragSChatterjee/Convex-Optimization-And-SDP-Energy-Management-In-C-For-DC-Microgrids-On-Low-Power-Embedded-Platforms) | 25× speedup · 304/304 runs · <0.012% error |
+| 🖥️ **HPC / Architecture** | Optimal Sorting for 4GB LLM Datasets | 6.2× speedup · 1B+ integers · OpenMP + NUMA |
+| ⚙️ **GPU Systems** | DVFS for GPU Microarchitecture | 18% energy-delay reduction · Ampere + Volta |
+| 🦯 **AIoT** | NAVI — Smart Blind Cane | 90% accuracy · ESP32 · LiDAR · AWS IoT |
+| 🧠 **FPGA / Hardware AI** | MLP Neural Network on FPGA | 120 fps · INT8 · 94% accuracy · Xilinx Zynq |
+| 👷 **Computer Vision** | Multi-Object Tracking — PPE Compliance | 81% mAP@0.5 · 500K+ frames/day · 12 sites |
+| 🔍 **IoT / ML** | Deception Detection for Examinations | 90% accuracy · 200+ subjects · Sensor Fusion |
+| 🤝 **LLM / Agents** | Columbia-Amazon Bedrock Challenge | Multi-agent · Claude 3.5 · Supply Chain AI |
 
-</div>
+---
 
-### 📈 Activity Snapshot (always visible)
+### 📈 Profile At A Glance
 
-| Metric | Value |
-|--------|-------|
-| 🗂️ Public Repositories | Check profile → [github.com/AnuragSChatterjee](https://github.com/AnuragSChatterjee) |
-| 🌟 Primary Languages | Python · C · C++ · MATLAB · CUDA · Verilog |
-| 🔬 Research Repos | Convex Optimization & SDP Energy Management (MPLab) |
-| 🤖 AI/ML Repos | Computer Vision · FPGA Neural Networks · IoT Sensor Systems |
-| 🖥️ Systems Repos | GPU DVFS · HPC Sorting · Computer Architecture |
+| Metric | Detail |
+|--------|--------|
+| 🔬 **Active Research Labs** | Ultrasound & Elasticity Imaging Lab *(current)* · MPLab *(completed)* |
+| 🏫 **Institution** | Columbia University — MS Computer Engineering |
+| 💼 **Industry Experience** | 2 years full-time (SLB) · 4 internships across AI, IoT, Hardware |
+| 🌍 **Collaboration** | Delft Institute of Technology · Columbia IEEE · NUS Enterprise |
+| 🏆 **Competitions** | Columbia-Amazon Bedrock Challenge · IES Innovation Challenge (Top 10%) |
+| 📝 **Publications & Talks** | SLB Newsletter (10,000+ readers) · SLB Webinar (50+ global engineers) |
+| 🎓 **GPA** | 3.86 / 4.00 (Columbia) |
+| 🌐 **Full Profile** | [github.com/AnuragSChatterjee](https://github.com/AnuragSChatterjee) |
 
 ---
 
@@ -136,7 +152,7 @@ Implemented semidefinite programming and convex optimization in C on Raspberry P
 
 | Period | Role | Company | Key Impact |
 |--------|------|---------|------------|
-| Aug 2023 – Jul 2025 | **Electrical & Mechatronics Engineer** — Digital Systems | **Schlumberger (SLB)** | Control systems for world's first $50K SGD subsea actuator (−20°C to 150°C, TotalEnergies Denmark); Shell Oman remote monitoring system worth $60K SGD at 10 kHz; MATLAB automation on 2.5M+ data points cutting validation cycles 33% (12h→8h) and eliminating 85% of manual errors; IEC 61000-4-6 compliant |
+| Aug 2023 – Jul 2025 | **Electrical & Mechatronics Engineer** — Digital Systems | **Schlumberger (SLB)** | Control systems for world's first $50K SGD subsea actuator (−20°C to 150°C, TotalEnergies Denmark); Shell Oman remote monitoring system $60K SGD at 10 kHz; MATLAB automation on 2.5M+ data points cutting validation cycles 33% (12h→8h) and eliminating 85% of manual errors; IEC 61000-4-6 compliant |
 | Jan 2022 – May 2022 | **Design Engineering Intern** — Innovation Hub | **Thales** | 5G railway design thinking with Fortune 500 clients; stakeholder coordination; UI/UX and competitive market research |
 
 ### Startups *(Block 71 & Block 73, One-North, Singapore)*

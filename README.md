@@ -146,7 +146,7 @@ Implemented semidefinite programming and convex optimization in C on Raspberry P
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience: Startups And Corporate (Fortune 500 MNCs)
 
 ### Corporate
 

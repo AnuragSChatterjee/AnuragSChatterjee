@@ -1,144 +1,196 @@
 <div align="center">
 
-```
+<!--  ═══════════════════════════════════════════════════════════  -->
+<!--                     HEADER BANNER                            -->
+<!--  ═══════════════════════════════════════════════════════════  -->
+
+<table>
+<tr>
+<td align="center" width="100%" style="border: 2px solid #555; padding: 16px; background-color: #0d1117;">
+<pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║           ANURAG S. CHATTERJEE  //  MS Computer Engineering  ║
 ║                    Columbia University, NYC                   ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+</pre>
+</td>
+</tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anuragschatterjee-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anuragschatterjee)
-[![GitHub](https://img.shields.io/badge/GitHub-AnuragSChatterjee-181717?style=flat-square&logo=github)](https://github.com/AnuragSChatterjee)
-[![Email](https://img.shields.io/badge/Email-ac5929@columbia.edu-EA4335?style=flat-square&logo=gmail)](mailto:ac5929@columbia.edu)
-[![Location](https://img.shields.io/badge/Based_in-New_York_City-FF6B35?style=flat-square)](https://github.com/AnuragSChatterjee)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anuragschatterjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragschatterjee)
+[![Email](https://img.shields.io/badge/Email-ac5929@columbia.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ac5929@columbia.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-AnuragSChatterjee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnuragSChatterjee)
+[![Location](https://img.shields.io/badge/New_York_City-Open_to_Relocation-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/AnuragSChatterjee)
 
 </div>
 
 ---
 
-## Hi, I'm Anurag Chatterjee 👋
+## Hi, I'm Anurag 👋
 
-🎓 **MS Computer Engineering · Columbia University (Ivy League), NYC** · GPA: 3.75/4.00
-🎓 **B.Eng (Hons) Electrical Engineering · National University of Singapore** — Ranked Top 20 in Asia & Globally · Graduated with Merit
+| | |
+|---|---|
+| 🎓 | **MS Computer Engineering · Columbia University (Ivy League), NYC** · GPA: 3.75/4.00 · Expected Dec 2026 |
+| 🎓 | **B.Eng (Hons) Electrical Engineering · National University of Singapore** — Top 20 in Asia & Globally · Graduated with Merit |
+| 📍 | MS-level ECE / Systems focus · Industry + R&D background in Hardware and Software · Tech Startup & Fortune 500 Experience |
+| 🌏 | Singapore Citizen · Based in New York City · Open to relocation |
 
-📍 MS-level ECE / Systems focus | Industry + R&D background in Hardware and Software | Tech Startup & Fortune 500 Corporate Experience
+I'm an Electrical & Computer Engineer with expertise in **systems, IoT, AI, and applied engineering**. I enjoy working at the intersection of **hardware, software, and large-scale systems**, with a passion for **systems engineering, robotics, AI, mathematics, finance, and quantitative problem-solving**.
 
-I'm an Electrical & Computer Engineer with expertise in **systems, IoT, AI, and applied engineering**, currently pursuing my **MS in Computer Engineering at Columbia University**, grateful to study at an Ivy League school in the heart of New York City.
+I build things that run on real hardware, write code that solves real problems, and document everything carefully enough that someone else can pick it up and continue. Previously worked at **Schlumberger and Thales** and multiple **deep-tech startups** in Singapore.
 
-I enjoy working at the intersection of **hardware, software, and large-scale systems**, with a passion for **systems engineering, robotics, AI, mathematics, finance, and quantitative problem-solving**. I build things that run on real hardware, write code that solves real problems, and document everything carefully enough that someone else can pick it up and continue.
+---
 
-Previously I have worked at **Schlumberger and Thales** and multiple **deep-tech startups** in Singapore.
+## 🏆 Honors, Awards & Recognitions
 
-> 🏛 *Columbia Professional Development & Leadership Fellow — Top 40 / 2,000 candidates*
-> 🏆 *Audience Choice Award — EECS AIoT Project, Fall 2025 (best project in class of 100)*
-> 📰 *Featured International Student Contributor — Columbia ISSO (selected from 1,000+ candidates)*
+| Award | Details |
+|-------|---------|
+| 🏛 **Columbia Professional Development & Leadership Fellow** | Top 40 / 2,000 candidates across all Columbia Engineering schools |
+| 🏆 **Audience Choice Award — EECS AIoT Project** | Best voted project in class of 100, Fall 2025 |
+| 📰 **Featured International Student Contributor — Columbia ISSO** | Selected from 1,000+ candidates; published interview & website feature |
+| 🌍 **NUS Mars Rover Team** | Top 50 globally |
+| 🥇 **IES Innovation Challenge Finalist** | Top 10% among 150 participants, 2021 |
+| 🎓 **Dean's Certificate of Distinction & Certificate of Merit** | NUS Undergraduate Student Council |
+| 🏅 **NUS Student Ambassador** | Selected representative for the university |
+| 🎤 **Webinar Presenter — SLB Data & Sensors SIG** | Signal processing for RF electronics; audience of 50+ engineers globally |
+| 📝 **Publication Contributor — SLB Newsletter** | Data visualization and sensors; readership of 10,000+ engineers |
 
 ---
 
 ## 🔭 Current Focus
 
-- **Deep Learning for Cardiac Electromechanical Wave Imaging** — monitoring electrical impulses during heart contraction and arrhythmia (Ultrasound & Elasticity Imaging Lab)
-- **Convex Optimization & Embedded Solvers in C** — SDP-based energy management on Raspberry Pi *(completed, MPLab)*
-- **Computer Architecture** — Cache behaviour, NUMA, GPU microarchitecture, DVFS
-- **Artificial Intelligence of Things (AIoT)** — Edge inference, sensor fusion, real-time ML
-- **Embedded AI & Deep Learning** — Quantized inference, FPGA acceleration
-- **Applied Research on GPUs** — Power-performance tradeoffs for LLM workloads
-- **Autonomous Systems** — Path planning, MPC for autonomous racing (Columbia Racing Team)
+| Domain | Details |
+|--------|---------|
+| 🫀 **Cardiac Deep Learning** | Deep learning for electromechanical wave imaging (EWI) of the heart — electrical impulses during contraction & arrhythmia *(Ultrasound & Elasticity Imaging Lab)* |
+| ⚡ **Convex Optimization** | SDP-based microgrid energy management in C on Raspberry Pi *(completed, MPLab)* |
+| 🖥️ **Computer Architecture** | Cache behaviour, NUMA, GPU microarchitecture, DVFS |
+| 🤖 **AIoT & Edge AI** | Sensor fusion, edge inference, real-time ML on constrained hardware |
+| 🏎️ **Autonomous Systems** | Path planning, MPC for autonomous racing *(Columbia Racing Team)* |
+| 🔬 **Embedded AI** | Quantized inference, FPGA acceleration, hardware-software co-design |
 
 ---
 
 ## 🔬 Research
 
-### Ultrasound & Elasticity Imaging Lab — Columbia University *(Current)*
+### 🫀 Ultrasound & Elasticity Imaging Lab — Columbia University *(Current)*
 
 Working on **deep learning for electromechanical wave imaging (EWI) of the heart** — using ultrasound-based techniques to non-invasively monitor the electrical impulses that propagate through cardiac tissue during contraction and arrhythmia. The goal is to map electromechanical activation sequences to help diagnose and understand conditions like atrial fibrillation, ventricular tachycardia, and other cardiac arrhythmias.
 
-*Domains: Deep Learning · Cardiac Imaging · Ultrasound Signal Processing · Electromechanics · Biomedical Engineering*
+`Deep Learning` `Cardiac Imaging` `Ultrasound Signal Processing` `Electromechanics` `Biomedical Engineering`
 
 ---
 
-### Motor Drives & Power Electronics Lab (MPLab) — Columbia University *(Completed)*
+### ⚡ Motor Drives & Power Electronics Lab (MPLab) — Columbia University *(Completed, Jan–May 2026)*
 
-Implemented semidefinite programming and convex optimization in C on Raspberry Pi for sustainable microgrid energy management in data centres, with hardware-in-the-loop testing via MATLAB and Simulink.
+Implemented semidefinite programming and convex optimization in C on Raspberry Pi 5 for sustainable microgrid energy management in data centres, with hardware-in-the-loop testing via MATLAB and Simulink.
 
 **[→ Full project repository](https://github.com/AnuragSChatterjee/Convex-Optimization-And-SDP-Energy-Management-In-C-For-DC-Microgrids-On-Low-Power-Embedded-Platforms)**
 
-Key results: **~25× speedup** (CVXPY ~1.08s → CVXPYgen compiled C ~0.043s) with <0.012% objective error across **304/304 parameter permutations**. Validates Theorem 1 of Haghighi et al. — battery complementarity constraints satisfied implicitly via penalty costs, eliminating the need for mixed-integer solvers.
+| Metric | Result |
+|--------|--------|
+| Speedup (CVXPYgen C vs CVXPY Python) | **~25×** |
+| CVXPY runtime on Raspberry Pi 5 | ~1.08 s |
+| CVXPYgen compiled C runtime | ~0.043 s |
+| Objective error across all runs | **< 0.012%** |
+| Permutation pass rate | **304 / 304 (100%)** |
 
-*Stack: Python · CVXPY · CVXPYgen · C · MATLAB · Clarabel · CSDP · Raspberry Pi 5 · TCP/IP Ethernet*
+`Python` `C` `MATLAB` `CVXPY` `CVXPYgen` `Clarabel` `Raspberry Pi 5` `TCP/IP`
 
 ---
 
-## 💼 Startup & Corporate Experience
+## 📊 GitHub Stats
 
-I have extensive **startup and corporate work experience**, including a Fortune 500 MNC and multiple deep-tech startups at **Block 71 & Block 73, One-North, Singapore**.
+> ℹ️ *Stats are rendered via GitHub's API — if images don't load, try refreshing or view on [github.com/AnuragSChatterjee](https://github.com/AnuragSChatterjee)*
 
-### Corporate Highlights
-- 🏢 **Schlumberger (SLB)** — Electrical & Mechatronics Engineer, Digital Systems: Control systems for the world's first $50K SGD subsea actuator (−20°C to 150°C); MATLAB automation cutting validation cycles 33% on Japan's largest geothermal plant; IEC 61000-4-6 compliance
-- 🏢 **Thales** — Design Engineering Intern, Innovation Hub: 5G railway design thinking with Fortune 500 clients; stakeholder coordination; UI/UX and market research
-- 🔧 Research & Development — Focused on System Optimization, Automation, and Embedded Solutions
+<div align="center">
 
-### Startup Highlights
-- 🤖 **Invigilo Technologies** — AI R&D Intern: YOLOv5 + DeepSORT real-time tracking, **81% mAP@0.5** on 4K/30fps streams; FastAPI pipeline processing 500K+ frames/day; sub-100ms latency across 12 construction sites *(Machine Learning & Computer Vision for construction safety)*
-- 📊 **Amaris.AI** — AI Product Management Intern: Benchmarked 5 NLP production models (BERT, GPT-2, T5) across 100K+ queries; report delivered to CTO for client acquisition *(AI & Cyber Security startup led by ex-GovTech & CSA Directors)*
-- 💻 **HomePal Technologies** — IoT Software Engineer Intern: TCP/IP + RTSP video streaming 15→18 fps (20% improvement); Raspberry Pi + OpenCV prototype secured SGD 5K pre-seed from NUS Enterprise *(NUS Graduate Research & Innovation Programme startup)*
-- 🛠 **PiezoRobotics** — Electronics Engineering Intern, NPD: Piezoelectric PCBs for SMRT Singapore; resolved 2-month IC noise issue via LTSpice; Arduino-MATLAB C++ GUI for real-time signal visualization *(Mechatronics startup founded by ex-A\*STAR Director of Research & Engineering)*
+| GitHub Overview | Top Languages |
+|:-:|:-:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuragSChatterjee&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragSChatterjee&layout=compact&theme=radical&hide_border=true&bg_color=0d1117) |
 
-<details>
-<summary>📋 Full experience timeline</summary>
+</div>
 
-| Period | Role | Company | Impact |
-|--------|------|---------|--------|
-| Aug 2023 – Jul 2025 | Electrical & Mechatronics Engineer | **Schlumberger (SLB)** | Subsea actuator control systems; 33% validation cycle reduction; 2.5M+ data points automated |
-| May 2023 – Jul 2023 | AI R&D Intern | **Invigilo Technologies** | 81% mAP@0.5; 500K+ frames/day; 12 construction sites |
-| May 2022 – Jul 2022 | AI Product Management Intern | **Amaris.AI** | BERT/GPT-2/T5 benchmark across 100K+ queries |
-| Jan 2022 – May 2022 | Design Engineering Intern | **Thales** | 5G railway; Fortune 500 client workshops |
-| Sep 2021 – Dec 2021 | Software Engineering Intern | **HomePal Technologies** | 20% fps improvement; SGD 5K pre-seed secured |
-| May 2021 – Jul 2021 | Electronics Engineering Intern | **PiezoRobotics** | SMRT Singapore PCBs; LTSpice noise resolution |
+<div align="center">
 
-</details>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnuragSChatterjee&theme=radical&hide_border=true&background=0d1117)
+
+</div>
+
+### 📈 Activity Snapshot (always visible)
+
+| Metric | Value |
+|--------|-------|
+| 🗂️ Public Repositories | Check profile → [github.com/AnuragSChatterjee](https://github.com/AnuragSChatterjee) |
+| 🌟 Primary Languages | Python · C · C++ · MATLAB · CUDA · Verilog |
+| 🔬 Research Repos | Convex Optimization & SDP Energy Management (MPLab) |
+| 🤖 AI/ML Repos | Computer Vision · FPGA Neural Networks · IoT Sensor Systems |
+| 🖥️ Systems Repos | GPU DVFS · HPC Sorting · Computer Architecture |
+
+---
+
+## 💼 Professional Experience
+
+### Corporate
+
+| Period | Role | Company | Key Impact |
+|--------|------|---------|------------|
+| Aug 2023 – Jul 2025 | **Electrical & Mechatronics Engineer** — Digital Systems | **Schlumberger (SLB)** | Control systems for world's first $50K SGD subsea actuator (−20°C to 150°C, TotalEnergies Denmark); Shell Oman remote monitoring system worth $60K SGD at 10 kHz; MATLAB automation on 2.5M+ data points cutting validation cycles 33% (12h→8h) and eliminating 85% of manual errors; IEC 61000-4-6 compliant |
+| Jan 2022 – May 2022 | **Design Engineering Intern** — Innovation Hub | **Thales** | 5G railway design thinking with Fortune 500 clients; stakeholder coordination; UI/UX and competitive market research |
+
+### Startups *(Block 71 & Block 73, One-North, Singapore)*
+
+| Period | Role | Company | Key Impact |
+|--------|------|---------|------------|
+| May 2023 – Jul 2023 | **AI R&D Intern** — Construction Safety | **Invigilo Technologies** | YOLOv5 + DeepSORT: **81% mAP@0.5** (from 65%) on 4K/30fps; FastAPI pipeline 500K+ frames/day; sub-100ms latency across 12 sites |
+| May 2022 – Jul 2022 | **AI Product Management Intern** | **Amaris.AI** | Benchmarked BERT/GPT-2/T5 across 100K+ queries; F1-score vs latency analysis; CTO report for South Africa client acquisition |
+| Sep 2021 – Dec 2021 | **Software Engineering Intern** — IoT | **HomePal Technologies** | TCP/IP + RTSP streaming 15→18 fps (20% improvement); Raspberry Pi + OpenCV prototype secured SGD 5K pre-seed from NUS Enterprise |
+| May 2021 – Jul 2021 | **Electronics Engineering Intern** — NPD | **PiezoRobotics** | Piezoelectric PCBs for SMRT Singapore (80% first-pass rate); resolved 2-month IC noise issue via LTSpice (10µF→100µF); Arduino-MATLAB C++ GUI accelerating deployment 40% |
 
 ---
 
 ## 📌 Featured Projects
 
-*(Pinned repositories highlight full details, setup instructions, and results)*
-
 ### Optimization & Embedded Systems
 
-**[SDP Energy Management in C on Raspberry Pi](https://github.com/AnuragSChatterjee/Convex-Optimization-And-SDP-Energy-Management-In-C-For-DC-Microgrids-On-Low-Power-Embedded-Platforms)**
+**[⚡ SDP Energy Management in C on Raspberry Pi](https://github.com/AnuragSChatterjee/Convex-Optimization-And-SDP-Energy-Management-In-C-For-DC-Microgrids-On-Low-Power-Embedded-Platforms)**
 Multi-period DC microgrid OPF via SDP relaxation compiled to C with CVXPYgen. 5-bus network, 24-hour horizon, 845 variables, 1667 constraints, 24× (5×5) PSD cones. 304 fixed permutations — 100% pass rate.
 `Python` `C` `MATLAB` `CVXPY` `Raspberry Pi 5` `TCP/IP`
 
 ### High-Performance Computing
 
-**[Optimal Sorting for 4GB LLM Datasets](https://github.com/AnuragSChatterjee)**
+**[🖥️ Optimal Sorting for 4GB LLM Datasets](https://github.com/AnuragSChatterjee)**
 MergeSort + OpenMP across 1B+ 32-bit integers. **6.2× speedup** on 16-core systems via cache-aware partitioning and NUMA-optimized memory allocation.
 `C++` `OpenMP` `NUMA` `Computer Architecture`
 
-**[DVFS for GPU Microarchitecture in Data Centres](https://github.com/AnuragSChatterjee)**
-Dynamic Voltage Frequency Scaling on NVIDIA Ampere and Volta GPUs. **18% reduction** in energy-delay product during LLM training.
+**[⚙️ DVFS for GPU Microarchitecture in Data Centres](https://github.com/AnuragSChatterjee)**
+DVFS on NVIDIA Ampere and Volta GPUs. **18% reduction** in energy-delay product during LLM training.
 `C++` `CUDA` `GPU Architecture`
 
 ### AIoT & Edge AI
 
-**[NAVI — AIoT Smart Blind Cane](https://github.com/AnuragSChatterjee)**
-Autonomous navigation integrating LiDAR, GPS, sensors, and motor control on ESP32 (I2C, PWM). Real-time obstacle detection with cloud monitoring. **90% accuracy** over 0.5–1m range. *Audience Choice Award, Fall 2025.*
+**[🦯 NAVI — AIoT Smart Blind Cane](https://github.com/AnuragSChatterjee)**
+LiDAR + GPS + motor control on ESP32 (I2C, PWM). Real-time obstacle detection + cloud monitoring. **90% accuracy** over 0.5–1m. *Audience Choice Award, Fall 2025.*
 `ESP32` `LiDAR` `I2C` `PWM` `AWS IoT`
 
-**[MLP Neural Network on FPGA for High-Performance Gaming](https://github.com/AnuragSChatterjee)**
-100-layer MLP accelerator in Verilog on Xilinx Zynq FPGA. **120 fps** inference with INT8 quantization — 94% accuracy vs FP32 baseline.
+**[🧠 MLP Neural Network on FPGA](https://github.com/AnuragSChatterjee)**
+100-layer MLP accelerator in Verilog on Xilinx Zynq FPGA. **120 fps** with INT8 quantization — 94% accuracy vs FP32.
 `Verilog` `FPGA` `Xilinx Zynq` `Hardware Acceleration`
 
 ### Computer Vision & ML
 
-**[Multi-Object Tracking — PPE Compliance](https://github.com/AnuragSChatterjee)**
-YOLOv5 + DeepSORT on 4K/30fps video. **81% mAP@0.5** (from 65%). FastAPI inference pipeline, 500K+ frames/day, sub-100ms latency across 12 construction sites.
+**[👷 Multi-Object Tracking — PPE Compliance](https://github.com/AnuragSChatterjee)**
+YOLOv5 + DeepSORT on 4K/30fps. **81% mAP@0.5** (from 65%). 500K+ frames/day, sub-100ms latency, 12 sites.
 `YOLOv5` `DeepSORT` `FastAPI` `Computer Vision`
 
-**[IoT Deception Detection for University Examinations](https://github.com/AnuragSChatterjee)**
-Multimodal lie detection via Arduino sensor array (GSR, heart rate, temperature) + Random Forest / SVM. **90% accuracy** across 200+ subjects.
+**[🔍 IoT Deception Detection for Examinations](https://github.com/AnuragSChatterjee)**
+Arduino sensor array (GSR, heart rate, temperature) + Random Forest / SVM. **90% accuracy** across 200+ subjects.
 `Arduino` `ML` `SQL` `Sensor Fusion`
+
+**[🤝 Columbia-Amazon Bedrock Innovation Challenge 2025](https://github.com/AnuragSChatterjee)**
+Multi-agent AI system using Amazon Bedrock (Claude 3.5) for FMCG supply chain optimization — LLM demand forecasting, inventory management, and logistics routing.
+`Amazon Bedrock` `Claude 3.5` `Multi-Agent AI` `LLM`
 
 ➡️ *See pinned repositories below for full documentation, setup instructions, and results.*
 
@@ -146,83 +198,68 @@ Multimodal lie detection via Arduino sensor array (GSR, heart rate, temperature)
 
 ## 🧰 Technical Skills
 
-### Programming & Systems
-```
-Languages      Python  C  C++  MATLAB  SQL  CUDA  Verilog  Embedded C  Bash
-AI / ML        PyTorch  TensorFlow  Keras  OpenCV  YOLO  ROS
-Embedded       Raspberry Pi  ESP32  FPGA (Xilinx/Intel)  ARM  Microcontrollers
-Systems        OpenMP  CPU & GPU Architecture  NUMA  Signal Processing  Control Systems
-Hardware       EagleCAD  Altium  LTSpice  Oscilloscopes  Network Analyzers  PCB Design
-Protocols      TCP/IP  SPI  UART  I2C  HTTP  RTSP
-Platforms      Linux  Git  AWS IoT  FastAPI  Jira
-```
-
-### Engineering Competencies
-Signal Processing · Control Systems · System Modelling & Analysis · PCB Design (EagleCAD, Altium) · Sensors & Actuators · System Integration & Testing · Debugging & Performance Optimization · GPU & CPU Architecture · Embedded Software Development
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python · C · C++ · MATLAB · SQL · CUDA · Verilog · Embedded C · Bash |
+| **AI / ML** | PyTorch · TensorFlow · Keras · OpenCV · YOLO · ROS |
+| **Embedded & Hardware** | Raspberry Pi · ESP32 · FPGA (Xilinx/Intel) · ARM · Microcontrollers · Sensors & Actuators |
+| **Systems** | OpenMP · CPU & GPU Architecture · NUMA · Signal Processing · Control Systems |
+| **Hardware Design** | EagleCAD · Altium · LTSpice · Fusion360 · Autodesk Inventor · Oscilloscopes · Network Analyzers · PCB Design · Analog & Digital Circuit Design |
+| **Protocols** | TCP/IP · SPI · UART · I2C · HTTP · RTSP |
+| **Platforms** | Linux · Git · Jira · AWS IoT · FastAPI |
+| **Certifications** | Certified Lean Six Sigma White Belt (SLB, Mar 2025) · Certified ML Developer (CodeCamp, 2022) |
 
 ---
 
-## 🏛️ Leadership & Technical Teams
+## 🏛️ Leadership, Competitions & Community
 
 ### Columbia University
-- **Columbia Professional Development & Leadership Fellow** — Top 40 / 2,000 candidates across all Columbia Engineering schools
-- **Columbia Autonomous Racing Team (Path & State Planning)** — Path planning algorithms and MPC for autonomous racecars; collaboration with Delft Institute of Technology (Netherlands)
-- **Columbia Venture Capital & Entrepreneurship (Leadership Team)** — Orchestrated 2 large-scale networking events connecting 50+ engineering students with 10+ VC judges and NYC venture ecosystem professionals
-- **Columbia Student Navigator** — Selected from 1,000+ applicants; supporting 100+ graduates across 10 campuses in academic and career guidance
+
+| Role | Details |
+|------|---------|
+| **Columbia Professional Development & Leadership Fellow** | Top 40 / 2,000 candidates — leadership, team management, professional development |
+| **Columbia Autonomous Racing Team** — Path & State Planning | Path planning & MPC algorithms; collaboration with Delft Institute of Technology (Netherlands) |
+| **Columbia Venture Capital & Entrepreneurship** — Leadership | 2 large-scale events; 50+ engineering students connected with 10+ VC judges and NYC professionals |
+| **Columbia Student Navigator** — CSSI | Selected from 1,000+ applicants; guiding 100+ students across 10 campuses |
+| **Columbia-Amazon Bedrock Innovation Challenge** | Multi-agent AI system for FMCG supply chain optimization |
+| **Columbia Graduate EE Mentorship** — IEEE Collaboration | Mentoring 2 undergraduates in industry and academic guidance |
 
 ### National University of Singapore
-- **NUS Mars Rover Team (Electrical Team)** — Power electronics architecture and hardware selection for university rover design challenge; team ranked **Top 50 globally**
-- **NUS Undergraduate Student Council** — Elected Treasurer and Student Representative for 200+ EE students; 30% increase in student-faculty engagement; Dean's Certificate of Distinction
-- **NUS Entrepreneurship Society** — Co-led partnerships team for startup hackathons and founder panels; reached 150 students
-- **Institute of Engineers of Singapore — NUS Chapter** — Secured 5 sponsors and industry partnerships (Micron, Bain & Company, GlobalFoundries); created opportunities for 250+ students
-- **The Collide Toastmasters Club** — Led education strategy across 5 clubs (200+ members); achieved Distinguished Club Program award within one year
+
+| Role | Details |
+|------|---------|
+| **NUS Mars Rover Team** — Electrical Team | Power electronics, hardware selection; **Top 50 globally** |
+| **NUS Undergraduate Student Council** — Treasurer & Rep | 200+ EE students; 30% student-faculty engagement increase; Dean's Certificate of Distinction |
+| **NUS Entrepreneurship Society** | Startup hackathons, founder panels; reached 150 students |
+| **IES — NUS Chapter** | 5 MNC sponsors secured (Micron, Bain, GlobalFoundries); 250+ student opportunities created |
+| **The Collide Toastmasters Club** | Led 5 clubs (200+ members); Distinguished Club Program award within 1 year |
+| **Rotaract Club — NUS** | 5 career fairs and technical workshops; 200 students reached |
+| **NUS Entrepreneurship Foundry Mentor** | Technical & venture mentor for NUS Enterprise startup; seed funding preparation |
+| **NUS Innovation Design Program — Teaching** | Design thinking to 30 students; **4.5/5 rating** (one of the highest in the year) |
+| **NUS Peer Tutoring — Systems Engineering** | Improved 2 students' grades from B− to A |
 
 ---
 
 ## 🎯 Professional Interests
 
-- Computer Architecture & Memory Systems
-- Embedded & Cyber-Physical Systems
-- Convex Optimization & Mathematical Programming
-- AI/ML Applications for Industrial & Energy Systems
-- Deep Learning for Medical Imaging & Biomedical Systems
-- Robotics & Autonomous Systems
-- GPU Computing & High-Performance Systems
-- Research-driven Engineering Roles
-- Long-term: Systems Optimization & Quantitative Methods
-
----
-
-## 🏆 Recognitions & Awards
-
-- 🏛 **Columbia Professional Development & Leadership Fellow** — Top 40 / 2,000 candidates
-- 🏆 **Audience Choice Award** — EECS AIoT Project, Fall 2025 (best in class of 100)
-- 📰 **Featured International Student Contributor** — Columbia ISSO (1,000+ applicant pool)
-- 🌍 **NUS Mars Rover Team** — Top 50 globally
-- 🥇 **IES Innovation Challenge Finalist** — Top 10% among 150 participants
-- 🎓 **Dean's Certificate of Distinction & Certificate of Merit** — NUS
-
----
-
-## 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnuragSChatterjee&show_icons=true&count_private=true&theme=radical&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragSChatterjee&layout=compact&theme=radical&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragSChatterjee&theme=radical&hide_border=false" height="160"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AnuragSChatterjee&theme=react-dark&area=true" height="160"/>
-</p>
+| Domain | |
+|--------|--|
+| Computer Architecture & Memory Systems | Embedded & Cyber-Physical Systems |
+| Convex Optimization & Mathematical Programming | Deep Learning for Medical Imaging & Biomedical Systems |
+| AI/ML for Industrial & Energy Systems | Robotics & Autonomous Systems |
+| GPU Computing & High-Performance Systems | Research-driven Engineering Roles |
+| Systems Optimization & Quantitative Methods | Finance, Investing & Quantitative Analysis |
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn**: [linkedin.com/in/anuragschatterjee](https://www.linkedin.com/in/anuragschatterjee)
-- 📧 **Email**: ac5929@columbia.edu
-- 🌐 **GitHub**: [github.com/AnuragSChatterjee](https://github.com/AnuragSChatterjee)
+| | |
+|---|---|
+| 💼 **LinkedIn** | [linkedin.com/in/anuragschatterjee](https://www.linkedin.com/in/anuragschatterjee) |
+| 📧 **Email** | ac5929@columbia.edu |
+| 🌐 **GitHub** | [github.com/AnuragSChatterjee](https://github.com/AnuragSChatterjee) |
+| 📞 **Phone** | (646) 236 7269 |
 
 ---
 
@@ -230,7 +267,7 @@ Signal Processing · Control Systems · System Modelling & Analysis · PCB Desig
 
 *Currently open to research collaborations and Summer 2026 internship opportunities in embedded systems, ML infrastructure, medical imaging AI, and energy-efficient computing.*
 
-`Singapore Citizen · Based in New York City · Open to relocation`
+`Singapore Citizen · New York City · Open to Relocation`
 
 ⭐ *If you find my work useful, feel free to explore, connect, or collaborate.*
 

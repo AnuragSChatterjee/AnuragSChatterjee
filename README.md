@@ -137,11 +137,11 @@ Implemented semidefinite programming and convex optimization in C on Raspberry P
 |--------|--------|
 | 🔬 **Active Research Labs** | Ultrasound & Elasticity Imaging Lab *(current)* · MPLab *(completed)* |
 | 🏫 **Institution** | Columbia University — MS Computer Engineering |
-| 💼 **Industry Experience** | 2 years full-time (SLB) · 4 internships across AI, IoT, Hardware |
+| 💼 **Industry Experience** | 2 years full-time (SLB) · 5 internships across AI, IoT, Hardware |
 | 🌍 **Collaboration** | Delft Institute of Technology · Columbia IEEE · NUS Enterprise |
 | 🏆 **Competitions** | Columbia-Amazon Bedrock Challenge · IES Innovation Challenge (Top 10%) |
 | 📝 **Publications & Talks** | SLB Newsletter (10,000+ readers) · SLB Webinar (50+ global engineers) |
-| 🎓 **GPA** | 3.86 / 4.00 (Columbia) |
+| 🎓 **GPA** | 3.91 / 4.00 (Columbia) |
 | 🌐 **Full Profile** | [github.com/AnuragSChatterjee](https://github.com/AnuragSChatterjee) |
 
 ---

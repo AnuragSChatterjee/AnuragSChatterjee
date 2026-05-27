@@ -28,7 +28,7 @@
 
 | | |
 |---|---|
-| 🎓 | **MS Computer Engineering · Columbia University (Ivy League), New York City** · GPA: 3.86/4.00 · Expected Dec 2026 |
+| 🎓 | **MS Computer Engineering · Columbia University (Ivy League), New York City** · GPA: 3.91/4.00 · Expected Dec 2026 |
 | 🎓 | **B.Eng (Hons) Electrical Engineering · National University of Singapore** — Top 20 in Asia & Globally · Graduated with Merit |
 | 📍 | MS-level ECE / Systems focus · Industry + R&D background in Hardware and Software · Tech Startup & Fortune 500 Experience |
 | 🌏 | Singapore Citizen · Lived In Egypt · Based in New York City · Open to relocation |
